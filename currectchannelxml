@@ -1,0 +1,17 @@
+<Configuration ID="670bef25-5bf4-4237-b977-c588b7478345">
+<Add OfficeClientEdition="64" Channel="Current" Version="16.0.17425.20176">
+<Product ID="O365ProPlusRetail">
+<Language ID="en-us"/>
+<ExcludeApp ID="Groove"/>
+<ExcludeApp ID="Lync"/>
+<ExcludeApp ID="Bing"/>
+</Product>
+</Add>
+<Property Name="SharedComputerLicensing" Value="0"/>
+<Property Name="FORCEAPPSHUTDOWN" Value="FALSE"/>
+<Property Name="DeviceBasedLicensing" Value="0"/>
+<Property Name="SCLCacheOverride" Value="0"/>
+<Property Name="TenantId" Value="8a161d80-860f-4058-81b6-ed56a3ebfc5b"/>
+<Updates Enabled="FALSE"/>
+<Display Level="None" AcceptEULA="TRUE"/>
+</Configuration>
